@@ -4,9 +4,10 @@
     "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost:57502",
-      "sslPort": 44331
+      "sslPort": 44331 
     }
   },
+
   "profiles": {
     "ECommerceWebApplication": {
       "commandName": "Project",
@@ -26,3 +27,4 @@
     }
   }
 }
+
